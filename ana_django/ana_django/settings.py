@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-=inj)$c)z9+ajia#9qgi9ht69@15)cm1gqm3nc&27a9@1lga1c
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://canli-django.onrender.com"]
 
 
 # Application definition
